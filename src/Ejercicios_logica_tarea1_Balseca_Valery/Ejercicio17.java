@@ -12,7 +12,7 @@ public class Ejercicio17 {
 
         System.out.println("🔢 Ingrese 15 números:");
 
-        // Bucle para ingresar 15 valores...
+        // Bucle para ingresar 15 valores
         for (int i = 1; i <= 15; i++) {
             System.out.print("Número " + i + ": ");
             double numero = sc.nextDouble();
