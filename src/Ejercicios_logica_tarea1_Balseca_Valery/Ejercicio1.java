@@ -15,7 +15,7 @@ public class Ejercicio1 {
 
         Scanner sc = new Scanner(System.in);
 
-        // Entrada de datos: porcentaje de asistencia
+        // Entrada de datos: porcentaje de asistencia ........
         System.out.print("Ingrese el porcentaje de asistencia del estudiante (ejemplo: 85 para 85%): ");
         asistencia = sc.nextDouble();
 
